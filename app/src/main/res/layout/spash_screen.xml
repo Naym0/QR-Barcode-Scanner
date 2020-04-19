@@ -13,7 +13,7 @@
         android:layout_marginLeft="25dp"
         android:layout_marginEnd="25dp"
         android:layout_marginRight="25dp"
-        android:text="Welcome to Barcode Scanner. Scan any you wish!"
+        android:text="Welcome to Barcode Scanner. Scan anything you wish!"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
